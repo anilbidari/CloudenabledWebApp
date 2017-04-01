@@ -1,7 +1,7 @@
 # CloudenabledWebApp
 CloudenabledWebApp for maven web app
 
-## By: Sushil
+## By: Cloudenabled
 
 # Pre-reques:
 ---------------
