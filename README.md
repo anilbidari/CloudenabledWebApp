@@ -34,6 +34,12 @@ To create a simple java project using maven, you need to open command prompt and
  http://<host-name>:<portnumber>/projectname, for example: http://localhost:8080/CloudenabledWebApp
  By copying the generated war file onto /var/lib/tomcat7/webapp and restart the tomcat7 service
  
-For adding feature copy below lines and update index.html on line 33
+For adding feature copy below lines and update index.html on line 33 
 
-<textarea name="myTextBox" cols="50" rows="5" style="background-color:#FCF5D8;color:#AD8C08;"> Enter some text... </textarea>
+<form action="http://www.html.am/html-codes/textboxes/submitted.cfm">
+<textarea name="myTextBox" cols="50" rows="5" style="background-color:#FCF5D8;color:#AD8C08;">
+Enter some text...
+</textarea>
+<br />
+<input type="submit" />
+</form>
